@@ -5,7 +5,7 @@
 def order(values: list = None) -> list:
     if values is None:
         for i in range (0, 11):
-            Input
+            Input("Entrer une variable ")
 
     return []
 
