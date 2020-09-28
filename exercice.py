@@ -4,7 +4,8 @@
 
 def order(values: list = None) -> list:
     if values is None:
-        for i in range (0, 11)
+        for i in range (0, 11):
+            Input
 
     return []
 
