@@ -6,8 +6,8 @@ def order(values: list = None) -> list:
     valeurs = []
     if values is None:
         for i in range (0, 11):
-           valeur = Input("Entrer une variable : ")
-        valeurs.append 
+            valeur = Input("Entrer une variable : ")
+            valeurs.append()
 
     return []
 
