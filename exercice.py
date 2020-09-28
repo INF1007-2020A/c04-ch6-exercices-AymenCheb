@@ -13,7 +13,7 @@ def order(values: list = None) -> list:
 def anagrams(words: list = None) -> bool:
     if words is None:
         words = []
-        
+        word = 
         pass
 
     return False
