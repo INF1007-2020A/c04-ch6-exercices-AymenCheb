@@ -15,7 +15,7 @@ def anagrams(words: list = None) -> bool:
         words = []
         first_word = Input("Entrer le premier mot: ")
         second_word = Input("Entrer le second mot: ")
-        
+        first
         pass
 
     return False
