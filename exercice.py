@@ -8,7 +8,7 @@ def order(values: list = None) -> list:
         for i in range (0, 11):
             valeur = Input("Entrer une variable : ")
             values.append(valeur)
-        
+        for 
 
     return []
 
