@@ -13,7 +13,8 @@ def order(values: list = None) -> list:
 def anagrams(words: list = None) -> bool:
     if words is None:
         words = []
-        first_word = Input()
+        first_word = Input("Entrer le premier mot: ")
+        second
         pass
 
     return False
