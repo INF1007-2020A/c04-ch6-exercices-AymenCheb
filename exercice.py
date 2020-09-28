@@ -18,8 +18,8 @@ def anagrams(words: list = None) -> bool:
         first_reverse = first_word[-1:]
         if first_reverse == second_word: 
             return true
-        
-    return False
+        else 
+        return False
 
 
 def contains_doubles(items: list) -> bool:
