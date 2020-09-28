@@ -3,16 +3,7 @@
 
 
 def order(values: list = None) -> list:
-    if values is None:
-        values = []
-        sorted_values = []
-        for i in range (0, 11):
-            valeur = Input("Entrer une variable : ")
-            values.append(valeur)
-        for value in values: 
-            rank = 100 
-            current_value = value 
-            for value in values: 
+    
 
 
     return []
