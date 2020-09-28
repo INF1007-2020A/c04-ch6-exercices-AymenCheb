@@ -11,7 +11,8 @@ def order(values: list = None) -> list:
             values.append(valeur)
         for value in values: 
             rank = 100 
-            current
+            current_value = value 
+            for value in values: 
 
 
     return []
