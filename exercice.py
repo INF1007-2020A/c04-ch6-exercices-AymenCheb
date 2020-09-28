@@ -3,9 +3,11 @@
 
 
 def order(values: list = None) -> list:
+    vaq
     if values is None:
         for i in range (0, 11):
-           valeur  Input("Entrer une variable : ")
+           valeur = Input("Entrer une variable : ")
+
 
     return []
 
