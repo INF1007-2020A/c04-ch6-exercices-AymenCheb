@@ -4,8 +4,7 @@
 
 def order(values: list = None) -> list:
     if values is None:
-        # TODO: demander les valeurs ici
-        pass
+        for i 
 
     return []
 
